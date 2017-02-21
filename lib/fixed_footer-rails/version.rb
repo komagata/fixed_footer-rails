@@ -1,6 +1,5 @@
 module FixedFooter
   module Rails
-    class Engine < ::Rails::Engine
-    end
+    VERSION = "0.1.0"
   end
 end
