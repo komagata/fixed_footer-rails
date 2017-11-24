@@ -20,7 +20,7 @@ Or install it yourself as:
 
 And in your application.js manifest:
 
-    //= require fixed_footer
+    //= require fixed-footer
 
 ## Usage
 
